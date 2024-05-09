@@ -58,8 +58,7 @@ https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/500f5433-
 
 
 - User Page
-![image](https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/706e80b7-65a3-4044-9b88-64646e67ec24)
-
+![image](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/3106da14-3934-4ed1-93b7-4a7da456f095)
 
 - View Attendance (User)
 ![image](https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/c04608cc-53bb-47fb-a388-d8f5791e0965)
