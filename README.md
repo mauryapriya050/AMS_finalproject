@@ -65,7 +65,8 @@ https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/500f5433-
 
 
 - Face Recognition Page
-![face-reg](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/eef615af-7414-43f8-be6f-5f9047b79a92)
+![image](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/782d27a9-d142-4f57-9083-764816483d4c)
+
 
 
 ## License
