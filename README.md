@@ -61,7 +61,8 @@ https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/500f5433-
 ![image](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/3106da14-3934-4ed1-93b7-4a7da456f095)
 
 - View Attendance (User)
-![image](https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/c04608cc-53bb-47fb-a388-d8f5791e0965)
+![user-viewattend](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/02ddda74-043d-40f2-85b9-ef5485a4e941)
+
 
 
 - Face Recognition Page
