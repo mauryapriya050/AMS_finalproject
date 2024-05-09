@@ -64,10 +64,8 @@ https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/500f5433-
 ![user-viewattend](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/02ddda74-043d-40f2-85b9-ef5485a4e941)
 
 
-
 - Face Recognition Page
-![image](https://github.com/kunalgiri19/AMS-final-year-project/assets/107206391/e68de093-6d46-4dd0-84bb-68ca2973c1f7)
-
+![face-reg](https://github.com/mauryapriya050/AMS_finalproject/assets/135995774/eef615af-7414-43f8-be6f-5f9047b79a92)
 
 
 ## License
@@ -75,5 +73,5 @@ This project is currently not licensed. All rights reserved.
 
 
 ## Contributors
-- [Kunal Giri](https://github.com/kunalgiri19)
 - [Priya Maurya](https://github.com/mauryapriya050)
+- [Kunal Giri](https://github.com/kunalgiri19)
